@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(94, 94, 187);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    gap: 3rem;
+}
